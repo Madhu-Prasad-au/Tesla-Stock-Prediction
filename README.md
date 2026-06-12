@@ -92,7 +92,7 @@ pip install -r requirements.txt
 Run the Streamlit application:
 
 ```bash
-streamlit run app_v2.py
+streamlit run app.py
 ```
 
 ## Business Applications
