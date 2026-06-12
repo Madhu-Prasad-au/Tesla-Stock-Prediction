@@ -94,6 +94,11 @@ Run the Streamlit application:
 ```bash
 streamlit run app.py
 ```
+To Use the Streamlit application:
+
+```bash
+(http://172.16.0.2:8501)
+```
 
 ## Business Applications
 
